@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Parth, how you doing?
+### Hi there 👋 I'm Parth
 I'm an Aerospace and Aerothermal Engineering student at the [University of Cambridge](http://www.eng.cam.ac.uk/ "University of Cambridge, Department of Engineering")
 
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-
 -->
