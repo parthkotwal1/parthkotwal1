@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Parth, how you doing?
+I'm an Aerospace and Aerothermal Engineering student at the [University of Cambridge](http://www.eng.cam.ac.uk/ "University of Cambridge, Department of Engineering")
+
+
 
 <!--
 **parthkotwal1/parthkotwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
